@@ -1,0 +1,25 @@
+{
+  "name": "kakashi-ui",
+  "version": "0.1.0",
+  "description": "CSS Framework for my projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erumaro/kakashi-ui.git"
+  },
+  "keywords": [
+    "CSS Framework",
+    "UI",
+    "Accessibility",
+    "Grid"
+  ],
+  "author": "Tobias Årud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erumaro/kakashi-ui/issues"
+  },
+  "homepage": "https://github.com/erumaro/kakashi-ui#readme"
+}
