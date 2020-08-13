@@ -1,0 +1,22 @@
+/* CSS CHAPTER LIST
+-----------------------------------------------
+* 0.0 - Normalize
+* 1.0 - Nesting level 1 (parent)
+*   1.1 - Nesting level 2 (child)
+*   1.1.1 - Nesting level 3 (grandchild)
+* X.0 - Layout
+*/
+
+/* 0.0 - Normalize
+----------------------------------------------- */
+@import 'globals/normalize';
+  
+  /* 1.0 - ?
+----------------------------------------------- */
+body {
+    background-color: #eee;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* X.0 - Layout
+----------------------------------------------- */
